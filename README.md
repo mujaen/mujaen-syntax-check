@@ -1,0 +1,1 @@
+# mujaen-syntax-check
